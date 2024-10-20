@@ -13,7 +13,7 @@ Welcome to my GitHub profile. I'm a designer graduated from the University of Bu
 
 - **Database:** PostgreSQL.
 - **Back-End:** NodeJs, Express, Sequelize.
-- **Front-End:** HTML5, CSS3, React Js, Redux, Cloudinary, Material UI, Bootstrap.
+- **Front-End:** HTML5, CSS3, React Js, Redux, Material UI, Bootstrap.
 - **Design:** Adobe XD and Figma.
 
 ## 🌐 Contact
