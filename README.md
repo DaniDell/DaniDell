@@ -18,7 +18,7 @@ Welcome to my GitHub profile. I'm a designer graduated from the University of Bu
 
 ## 🌐 Contact
 
-- [LinkedIn](https://www.linkedin.com/in/danieladellacqua/)
+- [LinkedIn](https://www.linkedin.com/in/danidell/)
 - Email: ddacqua@gmail.com
 
 ## 🔗 Featured Projects
